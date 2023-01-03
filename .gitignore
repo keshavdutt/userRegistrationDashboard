@@ -1,0 +1,12 @@
+
+# Node and related ecosystem
+# ==========================
+node_modules/
+
+
+# Enviornment Variables
+.env.development
+.env.production
+.env.staging
+!.env.development.example
+uploads
